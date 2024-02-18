@@ -3,7 +3,7 @@ An auction company has an interactive auction board at their sale rooms, which a
 Write and test a program or programs for the auction company.
 1) Your program or programs must include appropriate prompts for the entry of data, data must be validated on entry.
 2) Error messages and other output need to be set out clearly and understandably.
-3)All variables, constants and other identifiers must have meaningful names.
+3) All variables, constants and other identifiers must have meaningful names.
 You will need to complete these three tasks. Each task must be fully tested.
 
 Task 1 – Auction set up.
